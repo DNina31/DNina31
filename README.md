@@ -63,20 +63,15 @@ Oi, eu sou a Dani 👋
  
 
 ## 🧡 Onde trabalho
-
- 
-
 <p align="center">
-
+32
 https://www.evertecinc.com/
-
-<img src="https://img.shields.io/b_Evertec_Brasil-FF6B00?style=for-the-badge
-
+33
+<img src="https://img.shields.io/badge/Grupo%20Evertec%20Brasilyle=for-the-badge
+34
 </a>
-
+35
 </p>
-
- 
 
 🌎 Empresa: **Grupo Evertec Brasil**
 
@@ -88,53 +83,49 @@ https://www.evertecinc.com/
 
 
 ## 🎓 Formação
-84
+
  
-85
+
 🎓 **Tecnólogo em Gestão de Recursos Humanos**
-86
+
  
-87
+
 ---
+
+ 
+
+## 🏅 Certificações
+87
+<p>
 88
  
 89
-## 🏅 Certificações
+<img src="https://img.shields.io/badge/Tech%20Recruiter-Alura-00C86F?styleadge&logo=alura&logoColor=white
 90
  
 91
-<p>
+<img src="https://img.shields.io/badge/Tech%20Recruiter-Udemy-A435F0?the-badge&logo=udemy&logoColor=white
 92
  
 93
-<img src="https://img.shields.io/badge/Tech_Recruiter-Alura-00C86F?the-badge&logo=alura&logoColor=white
+<img src="https://img.shields.io/badge/Recrutamento%20%26%20Seleção-Certificado-blue?styleadge
 94
  
 95
-<img src="https://img.shields.io/badge/Tech_Recruiter-Udemy-A435F0?style=for-the-badge&&logoColor=white
+https://img.shields.io/badge/LGPD%20para%20RH-Certificado-success?style=for-the-badge
 96
  
 97
-<img src="https://img.shields.io/badge/Recruteleção-Certificado-blue?style=for-the-badge
+<img src="httpselds.io/badge/Departamento%20Pessoal-Certificado-orange?style=for-the-badge
 98
  
 99
-<img srcimg.shields.io/badge/LGPD_para_RH-Certificado-success?style=for-the-badge
-100
- 
-101
-<img src="https://img.shields.io/badge/Departamentoertificado-orange?style=for-the-badge
-102
- 
-103
 </p>
-104
- 
-105
+100
 ---
-106
+
  
-107
+
 
 🏦 Mercado Financeiro
 
