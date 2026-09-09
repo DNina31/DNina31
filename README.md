@@ -4,9 +4,6 @@ Oi, eu sou a Dani 👋
 
 </h1>
 
- 
-
-<h3 align="center">
 
 💜 Tech Recruiter Pleno | Talent Acquisition | People & Technology
 
@@ -14,7 +11,7 @@ Oi, eu sou a Dani 👋
 
  
 
-<p align="center">
+
 
 💡 Conectando talentos e oportunidades no universo da tecnologia
 
@@ -22,11 +19,6 @@ Oi, eu sou a Dani 👋
 
 
  
-<div align="center">
-
-<img src="https://media.giphy.com/mediawuy7K6FFw/giphy.gif
-
-</div>
 
  
 
@@ -64,14 +56,9 @@ Oi, eu sou a Dani 👋
 
 ## 🧡 Onde trabalho
 <p align="center">
-32
+
 https://www.evertecinc.com/
-33
-<img src="https://img.shields.io/badge/Grupo%20Evertec%20Brasilyle=for-the-badge
-34
-</a>
-35
-</p>
+
 
 🌎 Empresa: **Grupo Evertec Brasil**
 
@@ -151,7 +138,7 @@ https://img.shields.io/badge/LGPD%20para%20RH-Certificado-success?style=for-the-
 
  
 
-💜 Café, tecnologia e boas conversas sobre carreira são algumas das minhas combinações favoritas.
+💜 Chimarrão, tecnologia e boas conversas sobre carreira são algumas das minhas combinações favoritas.
 
  
 
