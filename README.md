@@ -53,9 +53,12 @@ https://www.evertecinc.com/
 
 🎓 Processo Prático de Recrutamento e Seleção - Udemy
 
+
+
 ## 📫 Vamos nos conectar?
 
 
 💜 Chimarrão, tecnologia e boas conversas sobre carreira são algumas das minhas combinações favoritas.
-.
-"Encontrando talentos que transformam tecnologia em resultado." ✨
+
+
+                  "Encontrando talentos que transformam tecnologia em resultado." ✨
