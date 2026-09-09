@@ -64,5 +64,8 @@ https://www.evertecinc.com/
 
 💜 Chimarrão, tecnologia e boas conversas sobre carreira são algumas das minhas combinações favoritas.
 
+<h1 align="center">
 
-                      "Encontrando talentos que transformam tecnologia em resultado." ✨
+                         Encontrando Talentos que transformam tecnologia em Resultados ✨
+
+</h1>
