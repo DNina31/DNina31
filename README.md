@@ -60,7 +60,6 @@ Oi, eu sou a Dani 👋
 https://www.evertecinc.com/
 
 
-🌎 Empresa: **Grupo Evertec Brasil**
 
 
 
@@ -82,39 +81,11 @@ https://www.evertecinc.com/
  
 
 ## 🏅 Certificações
-87
-<p>
-88
- 
-89
-<img src="https://img.shields.io/badge/Tech%20Recruiter-Alura-00C86F?styleadge&logo=alura&logoColor=white
-90
- 
-91
-<img src="https://img.shields.io/badge/Tech%20Recruiter-Udemy-A435F0?the-badge&logo=udemy&logoColor=white
-92
- 
-93
-<img src="https://img.shields.io/badge/Recrutamento%20%26%20Seleção-Certificado-blue?styleadge
-94
- 
-95
-https://img.shields.io/badge/LGPD%20para%20RH-Certificado-success?style=for-the-badge
-96
- 
-97
-<img src="httpselds.io/badge/Departamento%20Pessoal-Certificado-orange?style=for-the-badge
-98
- 
-99
-</p>
-100
----
+🎓 Tech Recruiter - Alura
 
- 
+🎓 Curso Básico de Tech Recruiter (IT Recruiting) - Udemy
 
-
-🏦 Mercado Financeiro
+🎓 Processo Prático de Recrutamento e Seleção - Udemy
 
 ## 📫 Vamos nos conectar?
 
