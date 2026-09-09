@@ -30,7 +30,7 @@ Oi, eu sou a Dani 👋
 ---
 
 
-## 🧡 Onde trabalho
+## 🧡 Onde atuo no momento
 
 <p align="center">
 
@@ -55,7 +55,7 @@ https://www.evertecinc.com/
 
 ## 📫 Vamos nos conectar?
 
+
 💜 Chimarrão, tecnologia e boas conversas sobre carreira são algumas das minhas combinações favoritas.
-
-
-⭐ Sempre aberta para conectar talentos e compartilhar conhecimentos.
+.
+"Encontrando talentos que transformam tecnologia em resultado." ✨
