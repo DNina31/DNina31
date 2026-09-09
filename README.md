@@ -66,6 +66,6 @@ https://www.evertecinc.com/
 
 <h1 align="center">
 
-                         Encontrando Talentos que transformam tecnologia em Resultados ✨
+     Encontrando Talentos que transformam tecnologia em Resultados ✨
 
 </h1>
